@@ -25,7 +25,7 @@ This is a clone of Urban Company built with [your tech stack]. The project aims 
 
 2. **Feature 2**
    - [ ] **Task**: Implement Feature 2
-     - **Deadline**: [Insert Deadline]
+     - **Deadline**: 29th of sept
      - **Review**: [Insert Review Comments]
 
 3. **Feature 3**
