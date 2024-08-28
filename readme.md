@@ -54,6 +54,9 @@ This is a clone of Urban Company built with [your tech stack]. The project aims 
 - Database: MongoDB
 - Hosting: [Your hosting platform]
 
-## Author
+## Collaborators
 
-This project is developed by [Your Name]. All rights reserved.
+This project is developed by-
+ - Shivani Verma
+ - Rohit Vishwakarma
+ All rights reserved.
