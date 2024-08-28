@@ -59,4 +59,5 @@ This is a clone of Urban Company built with [your tech stack]. The project aims 
 This project is developed by-
  - Shivani Verma
  - Rohit Vishwakarma
- All rights reserved.
+
+All rights reserved.
